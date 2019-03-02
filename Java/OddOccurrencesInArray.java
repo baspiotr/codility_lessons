@@ -1,5 +1,3 @@
-package OddOccurrencesInArray;
-
 public class Solution {
 
     public int solution(int[] A) {

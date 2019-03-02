@@ -1,2 +1,1 @@
-# codility_lessons
-My solutions for Codility lessons in Java.
+# My solutions for codility.com lessons.

@@ -1,8 +1,5 @@
-package BinaryGap;
-
-public class Main {
-
-    public static int solution(int N) {
+class Solution {
+  public static int solution(int N) {
 
         String binaryRepresentation = Integer.toBinaryString(N);
         int biggestGap = 0;
@@ -19,10 +16,5 @@ public class Main {
             }
         }
         return biggestGap;
-    }
-
-    public static void main(String[] args) {
-
-        System.out.println(solution(1041));
     }
 }
